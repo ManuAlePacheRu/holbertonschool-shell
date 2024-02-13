@@ -1,2 +1,2 @@
 #!/bin/bash
-mv ./[[:upper:]] /tmp/u holaaa
+mv ./[[:upper:]] /tmp/u
